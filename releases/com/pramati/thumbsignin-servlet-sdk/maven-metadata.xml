@@ -3,10 +3,10 @@
   <groupId>com.pramati</groupId>
   <artifactId>thumbsignin-servlet-sdk</artifactId>
   <versioning>
-    <release>1.0.0</release>
+    <release>1.0.0.release</release>
     <versions>
-      <version>1.0.0</version>
+      <version>1.0.0.release</version>
     </versions>
-    <lastUpdated>20181226100417</lastUpdated>
+    <lastUpdated>20181226104334</lastUpdated>
   </versioning>
 </metadata>

@@ -3,13 +3,13 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.pramati</groupId>
 	<artifactId>thumbsignin-servlet-sdk</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.0.release</version>
 	<name>thumbsignin-servlet-sdk</name>
 	<description>A library to communicate with thumbsignin.</description>
 	<distributionManagement>
 		<repository>
 			<id>repo</id>
-			<url>File:///home/srinivasab/Documents/sboyina-maven-repo/releases/com/pramati/thumbsignin-servlet-sdk/1.0.0</url>
+			<url>File:///home/srinivasab/Documents/sboyina-maven-repo/code</url>
 		</repository>
 	</distributionManagement>
 
